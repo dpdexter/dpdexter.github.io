@@ -1,0 +1,12 @@
+# Site settings
+title: David P. Dexter
+email: dpdexter@gmail.com
+description: "My awesome new site!"
+baseurl: ""
+url: "http://dpdexter.com"
+twitter_username: dpdexter
+github_username:  dpdexter
+
+# Build settings
+markdown: kramdown
+permalink: pretty
